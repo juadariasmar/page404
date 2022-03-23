@@ -67,5 +67,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [juanarias.info](https://www.juanarias.info)
 - GitHub [@juadariasmar](https://github.com/juadariasmar)
-- Twitter [@your-twitter](https://twitter.com/juan_arias_14)
+- Twitter [@juan_arias_14](https://twitter.com/juan_arias_14)
 
